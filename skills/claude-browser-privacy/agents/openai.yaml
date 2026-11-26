@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Browser Privacy"
+  short_description: "Clean up Claude data and configure Chrome privacy settings"
+  default_prompt: "Use $claude-browser-privacy to review my local Claude data, set up Chrome, and run the CleanIP check."
